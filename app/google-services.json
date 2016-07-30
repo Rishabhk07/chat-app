@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1076053307",
+    "firebase_url": "https://chat-app-32cb3.firebaseio.com",
+    "project_id": "chat-app-32cb3",
+    "storage_bucket": "chat-app-32cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076053307:android:36b5540d1a752e5c",
+        "android_client_info": {
+          "package_name": "com.example.hptouchsmart.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076053307-ph688vvmtqok1g6edj02570uool3it09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hptouchsmart.chatapp",
+            "certificate_hash": "56AD103F1F93C9FD0749FBB41534241A7277B65F"
+          }
+        },
+        {
+          "client_id": "1076053307-ikf0n1h7nr2ajtvhh273fh22u3de383n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyH2VpBzuD2Y4hLNzH3rPWvQebPuJQILc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076053307-ikf0n1h7nr2ajtvhh273fh22u3de383n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
